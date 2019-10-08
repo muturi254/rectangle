@@ -21,6 +21,6 @@ public class Periods {
         Date currentDate = new Date();
         boolean isTodayAfterEarlierDate = earlierDate.after(currentDate);
         System.out.println(isTodayAfterEarlierDate);
-        System.out.print("hhhh");
+//        System.out.print("hhhh");
     }
 }
